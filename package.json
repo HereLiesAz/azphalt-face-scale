@@ -1,0 +1,9 @@
+{
+    "name":  "@azphalt/smart-face-scale",
+    "version":  "2.0.0",
+    "description":  "",
+    "private":  false,
+    "scripts":  {
+                    "build":  "node build.js"
+                }
+}
