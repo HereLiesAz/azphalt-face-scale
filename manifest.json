@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Sizes the text to how close the face is — the nearer the subject, the bigger the caption.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
